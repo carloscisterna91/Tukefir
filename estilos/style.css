@@ -14,7 +14,7 @@ body{
 }
 .herobackground{
             
-        background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("./images/kefir.6.jfif");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("/images/kefir.6.jfif");
         color: white;
        
         height: 120vh;
